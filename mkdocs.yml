@@ -1,0 +1,6 @@
+site_name: Home Server
+site_url: https://tech4bueno.github.io/home-server
+theme:
+  name: material
+  palette:
+    primary: brown
