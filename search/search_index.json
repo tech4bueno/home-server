@@ -1,0 +1,1 @@
+{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"Home server","text":"<p>An opinionated guide to running cloud-like services on your home network.</p>"}]}
